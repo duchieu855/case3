@@ -1,0 +1,36 @@
+
+    {
+        "section":[{
+            "tag":"Producer", "title":"Et qui mollitia", "author":"abc", "date_post":"4/4/202 2:21:51 PM", "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "img": "./public/2.avif"
+        },
+        {
+            "tag":"Producer", "title":"Et qui mollitia", "author":"abc", "date_post":"4/4/202 2:21:51 PM", "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "img": "./public/2.avif"
+        },
+        {
+            "tag":"Producer", "title":"Et qui mollitia", "author":"abc", "date_post":"4/4/202 2:21:51 PM", "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "img": "./public/2.avif"
+        }],
+        "asideBottomBottom": [
+            
+            {
+                "tag": "Producer", "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "src_video":"./public/2.avif"
+            },
+            {
+                "tag": "Producer", "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "src_video":"./public/2.avif"
+            }
+        ],
+        "asideBottomTop" : [
+            {
+                "tag": "Producer", "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "src_video":"./public/2.avif"
+            }
+        ],
+        "asideTop": [
+            {
+                "src_face":"#",
+                "src_twice":"#",
+                "src_google":"#"
+            }
+        ]
+
+    }
+
+    
